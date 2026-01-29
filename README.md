@@ -1,4 +1,4 @@
-# PROJET PROGRAMMATION SYSTEME : Simulation Magasin de Bricolage
+# PROJET PROGRAMMATION SYSTEME : Simulation Magasin de Bricolage - UNIX / SYSTEM V IPC
 
 ## Auteurs
 - **GHODBANE Rachid**
